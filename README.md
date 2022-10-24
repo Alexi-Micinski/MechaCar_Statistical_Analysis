@@ -23,3 +23,23 @@ Lot summary:
 <img width="551" alt="Screen Shot 2022-10-24 at 3 51 05 PM" src="https://user-images.githubusercontent.com/106785377/197636576-d612820f-f20e-4f45-afe2-62a1ccc7d36b.png">
 
 The variance of the suspension coils is 62.3 PSI according to the total summary. This meets the design specifications. However, by breaking the data down by lot, we can see that Lot3 has a PSI variance of 170.3, which does not meet the design specifications. Lot1 and Lot2 do meet the design specifications as they have PSI variance below 100 PSI.
+
+## T-Tests on Suspension Coils
+
+All lots:
+
+<img width="395" alt="Screen Shot 2022-10-24 at 4 23 25 PM" src="https://user-images.githubusercontent.com/106785377/197641238-02f75d8f-dbee-4e4f-b6be-0c54371f508c.png">
+
+Lot1:
+
+<img width="401" alt="Screen Shot 2022-10-24 at 4 24 48 PM" src="https://user-images.githubusercontent.com/106785377/197641291-f180d8e8-75de-4d51-bfa7-41201b8ce86e.png">
+
+Lot2:
+
+<img width="407" alt="Screen Shot 2022-10-24 at 4 25 05 PM" src="https://user-images.githubusercontent.com/106785377/197641326-a6cf007c-55ae-49ca-9018-5832e120d406.png">
+
+Lot3:
+
+<img width="404" alt="Screen Shot 2022-10-24 at 4 25 24 PM" src="https://user-images.githubusercontent.com/106785377/197641351-75ccde29-3e30-45de-8193-d8b0d2b9f6eb.png">
+
+(Insert summary of results here)
