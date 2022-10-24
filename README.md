@@ -43,3 +43,28 @@ Lot3:
 <img width="404" alt="Screen Shot 2022-10-24 at 4 25 24 PM" src="https://user-images.githubusercontent.com/106785377/197641351-75ccde29-3e30-45de-8193-d8b0d2b9f6eb.png">
 
 The p-value is above the common significance level of 0.05 for all lots combined, for lot 1, and for lot 2, meaning there is not enough evidence to reject the null hypothesis. This means that the mean of all three manufacturing lots and the mean of lot 1 and of lot 2 is statistically similar to the population mean. The p-value for lot 3 is below 0.05, meaning there is evidence to reject the null hypothesis. In other words, the mean of lot 3 is not statistically similar from the population mean.
+
+## Study Design: MechaCar vs Competition
+
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+- What metric or metrics are you going to test?
+  - Cost
+  - Fuel efficiency (MPG)
+  - Maintainance (average cost per year)
+  - Engine type (gas/electric/other, number of cylinders)
+  - Drive type (2WD/4WD)
+  - Number of available models
+
+- What is the null hypothesis or alternative hypothesis?
+  - First determine which factors are relevant to MechaCar.
+  - Null hypothesis: MechaCar is priced correctly based on the relevant factors.
+  - Alternative hypothesis: MechaCar is not priced correctly based on the relevant factors.
+
+- What statistical test would you use to test the hypothesis? And why?
+  - A multiple linear regression could be used to deterine which factors have the strongest predictive power for MechaCar car prices. 
+
+- What data is needed to run the statistical test?
+  - The cost would be the dependent variable and the other metrics/factors would be the independent variables, which would be tested for predictive power of the cost.
+
+
