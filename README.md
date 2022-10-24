@@ -8,7 +8,9 @@ The intercept, vehicle length, and ground clearance provided a non-random amount
 
 The slope of the linear model is not considered to be zero because the vehicle length and the ground clearence have significant linear correlation with the mpg. The other three variables have a random effect on the model.
 
-This linear model may not predict mpg of MechaCar prototypes effectively because the intercept is significant. This could mean the significant features may need scaling or transforming to improve the model's predictive power. It could also mean that there are other variables that can explain the variablility of the dependent variable that are not included in the model.
+The linear model has an R-squared value of 0.7149, indicating strong evidence that mpg predictions are determined by the model.
+
+However, this linear model may not predict mpg of MechaCar prototypes effectively because the intercept is significant. This could mean the significant features may need scaling or transforming to improve the model's predictive power. It could also mean that there are other variables that can explain the variablility of the dependent variable that are not included in the model.
 
 ## Summary Statistics on Suspension Coils
 
