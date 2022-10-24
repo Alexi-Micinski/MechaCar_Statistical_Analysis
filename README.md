@@ -42,4 +42,4 @@ Lot3:
 
 <img width="404" alt="Screen Shot 2022-10-24 at 4 25 24 PM" src="https://user-images.githubusercontent.com/106785377/197641351-75ccde29-3e30-45de-8193-d8b0d2b9f6eb.png">
 
-(Insert summary of results here)
+The p-value is above the common significance level of 0.05 for all lots combined, for lot 1, and for lot 2, meaning there is not enough evidence to reject the null hypothesis. This means that the mean of all three manufacturing lots and the mean of lot 1 and of lot 2 is statistically similar to the population mean. The p-value for lot 3 is below 0.05, meaning there is evidence to reject the null hypothesis. In other words, the mean of lot 3 is not statistically similar from the population mean.
